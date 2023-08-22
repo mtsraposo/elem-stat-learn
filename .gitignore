@@ -4,3 +4,5 @@
 **/__pycache__/
 
 elem_stat_learn/data/
+.DS_Store
+
